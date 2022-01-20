@@ -1,8 +1,7 @@
-# google-analytics-churn-predictor
 
-This project aims to make predictions on customer churn rate based on google analytics data.
-Data is aggregated on a user, session and hit level. 
+# google-analytics-analysis
 
-Requirements to run this file: 
-- Google Analytics View Id
-- Google Analytics API Clientsecret.json file 
+A through exploration of data retrieved from google analytics via an API integration.
+Conducted for a portugese e-learning platform. 
+
+Not meant to be cloned and/or replicated. 
